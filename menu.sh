@@ -8,15 +8,15 @@ clear
 
 
 portuguese(){
-    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
+    bash <(curl https://raw.githubusercontent.com/Regardy/AnimeBackground/main/menu.sh)
 }
 
 german(){
-    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
+    bash <(curl https://raw.githubusercontent.com/Regardy/AnimeBackground/main/menu.sh)
 }
 
 english(){
-    bash <(curl https://raw.githubusercontent.com/danzkeceh/pterodactylthemes/main/menu.sh)
+    bash <(curl https://raw.githubusercontent.com/Regardy/AnimeBackground/main/menu.sh)
 }
 
     CYAN='\033[0;36m'
